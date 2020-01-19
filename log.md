@@ -15,22 +15,16 @@
 
 **Link to work:** Total Video Times with Reduce - https://github.com/sarahtam718/javascript30-learning/commit/26f076aaaf4ac1efb589ea9cb7f26a0e9cd2f957
 
-<!-- ### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: January 18, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Halfway through Unreal Webcam Fun Lesson 19 of Javascript 30
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Not as productive as yesterday...It threw me off that some parts of the tutorial were outdated, so I had to find the updated solution. I feel like it was a good reality check of problem-solving though. I had to ask why something isn't working and then test my hypothesis and figure it out until it works.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Skills:**
 
+- accessing webcam --> srcObject, the media stream promise
+- using canvas, like .drawImage
+- problem-solving "Why isn't this working?"
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+**Link to work:** check out my twitter image!
