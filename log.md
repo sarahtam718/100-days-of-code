@@ -37,9 +37,9 @@
 
 **Skills:** basic JavaScript like how to add <src> tags to HTML, find an element's datatype, construct a template literal, let vs const (why const should be the go-to for data integrity and clarity)
 
-### Day 4-5: January 20-21, 2020
+### Days 4-5: January 20-21, 2020
 
-**Today's Progress**: Let's get certified!
+**Today's Progress**: Determined to get certified through freeCodeCamp!
 
 **Thoughts:** I don't love just watching a video and taking notes...so I found myself back where I was almost a year ago, during the web development bootcamp I took through Trilogy at Northwestern, in freeCodeCamp. They have these quick mini-lessons on the foundations, and I could get certified from them while building skills and projects for my portfolio. As I stated in my Tweet, this isn't the glamorous part - I want to make beautiful and functional things, but I'm just not ready yet. I am trying to show myself some grace as I am reviewing some basic array accessing and setting up functions. This is because I recognize so many ways that I cut myself short in a project I submitted for an amazing apprenticeship opportunity that I lost in the first round.
 
@@ -52,3 +52,31 @@
 - incrementing / decrementing
 - escaping strings
 - invoking and calling functions
+- parameters & arguments
+
+### Days 6-8: January 22-24, 2020
+
+**Today's Progress**: Demonstrated courage & curiosity
+
+**Thoughts:** I am beyond thankful and excited to start this new journey at work. Since we are winding down from busy season, my workload has decreased significantly. I had been thinking a while ago that my team could find some tasks at least partially automated for efficiency and accuracy (by reducing human-interaction with data). I asked my manager if I could try automation with code, and he not only gave me permission to pursue that task but also asked if I could try to automate a special report from the database with code in addition to another higher-priority project. I did notice that my bootcamp SQL skills were coming back pretty sharp and that fundamental coding understanding helped me onboard to python more quickly than I expected. In these few days, I have been able to translate his first query into a query that Snowflake can understand as well as introduce a condition to determine what data should be passed into the next query for further investigation. Working with our Data Analytics person, we ran into some issues with the two instances of the db inconsistent to the extent that my work may be in vain...I'm still happy it worked! At the end of the last day, I was working on getting the Google Sheets API up and running to allow me to compare the results of the first query with data that we only store in Sheets. Not working - yet!
+
+**Skills:**
+
+- setting up python environment via Jupyter notebook & Anacondas
+- connecting to Snowflake db
+- modifying a complex SQL query
+- reading documentation (Snowflake, Google Sheets API)
+- connecting Google Sheets to Jupyter notebook
+
+### Day 9: January 26, 2020
+
+**Today's Progress**: Just over %50 complete in the Basic JavaScript portion of certification course on freeCodeCamp
+
+**Thoughts:** Grateful to be back in JavaScript after a week of python and SQL. More dots are connecting.
+
+**Skills:**
+
+- scope of variables
+- passing arguments into functions
+- the purpose/functionality of the return statement
+- == vs ===
