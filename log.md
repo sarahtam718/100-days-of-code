@@ -80,3 +80,40 @@
 - passing arguments into functions
 - the purpose/functionality of the return statement
 - == vs ===
+
+### Day 10-14: January 27-31, 2020
+
+**Today's Progress**: I hit about 70% completion of my work project - wow!
+
+**Thoughts:** Although Python feels like a whole new world, I am growing in confidence in my understanding of how computers / the browser / humans work together to make things happen. I had a coworker from the data science team help me with syntax and conceptualizing. Plus, I met with my manager (who the project is mainly for) and he was ecstatic about my progress - seeing the wider applicability of what I'm creating. It really helps to have a road map and set of tasks so that when I need a break from spinning my wheels on one aspect of the project, I can pursue another with fresh energy.
+
+**Skills:**
+
+- DataFrames in pandas
+- to_csv in pandas
+- renaming columns in a table of query results
+- setting true/false conditions
+- creating dynamic clauses to insert into a query for real-time results
+- greater understanding of the database architecture at work
+
+### Day 15: February 1, 2020
+
+**Today's Progress**: A couple Basic JavaScript modules from freeCodeCamp
+
+**Thoughts:** Good idea to have something productive to do (rather than being tempted to be on my phone) like coding on my down time while volunteering. Mostly lessons I felt pretty confident in already - I wish their new project-based curriculum was coming out soon so I could see more application and edge cases.
+
+**Skills:**
+
+- inequalities
+- if else statements
+
+### Day 16: February 3, 2020
+
+**Today's Progress**: Doesn't feel like I made much...Finally caught up on this log!
+
+**Thoughts:** I pursued a few different topics related to my query work project. Mostly reading documentation on how to connect query results to Slack, run Jupyter Notebooks automatically, and convert DataFrames to_excel (instead of to_csv). I didn't do much typing, but I know reading documentation is a skill that although hard to measure progress on is worth something.
+
+**Skills:**
+
+- reading documentation
+- benefits and drawback of to_csv vs to_excel in pandas
