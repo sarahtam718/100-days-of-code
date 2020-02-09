@@ -117,3 +117,27 @@
 
 - reading documentation
 - benefits and drawback of to_csv vs to_excel in pandas
+
+### Day 17-20: February 4-7, 2020
+
+**Week's Progress**: More familiarity with python and using jupyter notebook and distinguishing when and how many parameters to use
+
+**Thoughts:** I used VS Code LiveShare to do a short code wars problem with a mentor I met through a DevTogether meetup. That was really helpful because he thought aloud, which revealed how an expert thinks through a coding problem. At work, I met almost everyday with the Data Analytics person and twice with my manager. We solved little problems like figuring out I wasn't returning anything, so that is why my function wasn't "working." I connected with the only and recently-hired engineer in the office - great opportunity to share what I was working on and learn that he is a great resource because we are working in the same language. I am a bit torn on focusing between splitting my time on JavaScript at home and Python at work or all of my attention on Python...
+
+**Skills:**
+
+- purpose of the number of arguments as parameters in a function
+- return something from a function and feed it to another function
+- stringing functions together in a giant function to make code more readable & efficient
+- how to make functions more reusable by replacing hard-coded elements
+
+### Day 21: February 9, 2020
+
+**Week's Progress**: Two freeCodeCamp Basic JavaScript modules
+
+**Thoughts:** Spent a lot of time problem-solving, with more or less success. Perseverance and creativity are the keys!
+
+**Skills:**
+
+- attention to detail
+- switch statements syntax
