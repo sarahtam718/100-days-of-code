@@ -141,3 +141,11 @@
 
 - attention to detail
 - switch statements syntax
+
+### Day 22: February 11, 2020
+
+**Week's Progress**: 23% closer to finishing Basic JavaScript modules on freeCodeCamp
+
+**Thoughts:** Though I want to build projects, I recognize my need for these modules to build my skills and break down misconceptions. Patience and perseverance will win out!
+
+**Skills:** accessing objects and arrays, case statements, complex if else statements
