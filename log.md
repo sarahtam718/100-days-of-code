@@ -149,3 +149,11 @@
 **Thoughts:** Though I want to build projects, I recognize my need for these modules to build my skills and break down misconceptions. Patience and perseverance will win out!
 
 **Skills:** accessing objects and arrays, case statements, complex if else statements
+
+### Day 23: February 12, 2020
+
+**Week's Progress**: 10% closer to finishing Basic JavaScript modules on freeCodeCamp (9% away from completion)
+
+**Thoughts:** Really solidified differences between loops and purpose of each item in a loop (not that I've used them much in React with .map, but good to go back to how it works). Recursion is tricky - definitely need to look into it further because it does seem more efficient.
+
+**Skills:** while loop, for loop, do while loop, intro to recursion
