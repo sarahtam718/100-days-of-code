@@ -157,3 +157,11 @@
 **Thoughts:** Really solidified differences between loops and purpose of each item in a loop (not that I've used them much in React with .map, but good to go back to how it works). Recursion is tricky - definitely need to look into it further because it does seem more efficient.
 
 **Skills:** while loop, for loop, do while loop, intro to recursion
+
+### Day 24: February 15, 2020
+
+**Week's Progress**: Basic JavaScript on freeCodeCamp 100% complete! - 9 more sections to go
+
+**Thoughts:** YAY
+
+**Skills:** ternary operator, parseInt, Math.random(), Math.Floor(), recursion
