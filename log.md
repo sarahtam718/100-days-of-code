@@ -133,7 +133,7 @@
 
 ### Day 21: February 9, 2020
 
-**Week's Progress**: Two freeCodeCamp Basic JavaScript modules
+**Day's Progress**: Two freeCodeCamp Basic JavaScript modules
 
 **Thoughts:** Spent a lot of time problem-solving, with more or less success. Perseverance and creativity are the keys!
 
@@ -144,7 +144,7 @@
 
 ### Day 22: February 11, 2020
 
-**Week's Progress**: 23% closer to finishing Basic JavaScript modules on freeCodeCamp
+**Day's Progress**: 23% closer to finishing Basic JavaScript modules on freeCodeCamp
 
 **Thoughts:** Though I want to build projects, I recognize my need for these modules to build my skills and break down misconceptions. Patience and perseverance will win out!
 
@@ -152,7 +152,7 @@
 
 ### Day 23: February 12, 2020
 
-**Week's Progress**: 10% closer to finishing Basic JavaScript modules on freeCodeCamp (9% away from completion)
+**Day's Progress**: 10% closer to finishing Basic JavaScript modules on freeCodeCamp (9% away from completion)
 
 **Thoughts:** Really solidified differences between loops and purpose of each item in a loop (not that I've used them much in React with .map, but good to go back to how it works). Recursion is tricky - definitely need to look into it further because it does seem more efficient.
 
@@ -160,8 +160,16 @@
 
 ### Day 24: February 15, 2020
 
-**Week's Progress**: Basic JavaScript on freeCodeCamp 100% complete! - 9 more sections to go
+**Day's Progress**: Basic JavaScript on freeCodeCamp 100% complete! - 9 more sections to go
 
 **Thoughts:** YAY
 
 **Skills:** ternary operator, parseInt, Math.random(), Math.Floor(), recursion
+
+### Day 25: February 17, 2020
+
+**Day's Progress**: ~65% through the ES6 modules on freeCodeCamp
+
+**Thoughts:** I feel like following this up with code wars problems would be helpful to see if I can actually apply the logic
+
+**Skills:** destructuring, spread operator, rest parameter
