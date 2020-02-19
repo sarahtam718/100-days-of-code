@@ -173,3 +173,19 @@
 **Thoughts:** I feel like following this up with code wars problems would be helpful to see if I can actually apply the logic
 
 **Skills:** destructuring, spread operator, rest parameter
+
+### Day 26: February 18, 2020
+
+**Day's Progress**: ~68% through the ES6 modules on freeCodeCamp
+
+**Thoughts:** I really only did two of the tasks and they were quite challenging. It was helpful to work through them on my own and then look at the solutions and do my own research where I was confused.
+
+**Skills:** constructors
+
+### Day 27: February 19, 2020
+
+**Day's Progress**: codewars problem & coverted my watering scheduler to JavaScript
+
+**Thoughts:** Feels good to be able to complete a codewars problem without help! Definitely room for growth. Looking forward to improving the quality of the code in this watering scheduler app.
+
+**Skills:** converting a number to an array, looping, reversing an array, using rebase git command to reuse an old repo
